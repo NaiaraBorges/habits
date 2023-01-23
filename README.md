@@ -1,11 +1,11 @@
 # habits
 
 <h3 align="center">
-      <img src="web/src/assets/logo.svg" width="300px" /><br>
+      <img src="web/src/assets/logo.svg" width="250px" /><br>
     
     
   
- ##  habits 
+ ##  🪄 Introdução
  
 O projeto habits é totalmente fullstack com o back-end em NodeJS, TypeScript e Banco de dados ORM Prisma e front-end em React, Typescript + Vite. Habits é um projeto que te ajuda a criar e manter bons hábitos, permitindo que você alcance os seus objetivos de longo prazo. ele conta com uma interface bonita, moderna e simples, possui uma interface minimalista bem simples de usar.
 
